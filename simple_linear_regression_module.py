@@ -3,14 +3,7 @@
 
 import numpy as np
 
-# Our goal is create a function for a and B. Remember that a and B are defined as...
-
-
-# ![a_partial8.png](attachment:a_partial8.png)
-
-# ![new_b_6.png](attachment:new_b_6.png)
-
-# ### Let's create three functions
+### Let's create three functions
 
 
 def get_b(x, y):
